@@ -2,7 +2,7 @@ package be.intecbrussel;
 
 public class VraagVier {
     public static void main(String[] args) {
-        for (int a = 1; a <= 10; a++) {
+        for (byte a = 1; a <= 125; a++) {
             System.out.println(a);
         }
     }
